@@ -11,4 +11,5 @@ Hello & Namaste ,
   You may contact me through different social media platforms :
   1. Facebook : https://www.facebook.com/aryal.kritan
   2.  Instagram : https://www.instagram.com/kritan.aryal
-  3. Twitter/X : @kritanaryal_
+  3.  Mail : kritan.aryal@yahoo.com
+  5. Twitter/X : @kritanaryal_
