@@ -12,3 +12,4 @@ Hello & Namaste ,
   1. Facebook : https://www.facebook.com/aryal.kritan
   2.  Instagram : https://www.instagram.com/kritan.aryal
   3.  Twitter/X : https://www.twitter.com/kritanaryal_
+  4.  https://www.x.com/kritanaryal_
