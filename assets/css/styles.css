@@ -339,7 +339,7 @@ img {
   border-radius: .5rem;
 }
 
-/* ===== WORK =====*/
+/* ===== WORK ===== */
 .work__container {
   row-gap: 2rem;
 }
@@ -352,7 +352,7 @@ img {
 
 .work__img img {
   transition: 1s;
-}
+}s
 
 .work__img img:hover {
   transform: scale(1.1);
