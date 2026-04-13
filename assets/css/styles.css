@@ -4,9 +4,6 @@
 :root {
   --header-height: 3rem;
   --font-semi: 600;
-  /*===== Colores =====*/
-  /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
-  /* HSL color mode */
   --hue-color: 224;
   --first-color: hsl(var(--hue-color), 89%, 60%);
   --second-color: hsl(var(--hue-color), 56%, 12%);
@@ -339,24 +336,7 @@ img {
   border-radius: .5rem;
 }
 
-/* ===== WORK ===== */
-.work__container {
-  row-gap: 2rem;
-}
 
-.work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
-  border-radius: .5rem;
-  overflow: hidden;
-}
-
-.work__img img {
-  transition: 1s;
-}s
-
-.work__img img:hover {
-  transform: scale(1.1);
-}
 
 /* ===== CONTACT =====*/
 .contact__input {
